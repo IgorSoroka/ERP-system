@@ -1,0 +1,84 @@
+﻿<Window x:Class="Exam.View.ChangeUser"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Exam.View"
+        xmlns:app="clr-namespace:Exam"
+        mc:Ignorable="d"
+        Title="AddUser" Height="600" Width="700" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Window.DataContext>
+        <app:MainWindowViewModel></app:MainWindowViewModel>
+    </Window.DataContext>
+    <Window.Resources>
+        <Style TargetType="TextBlock">
+            <Setter Property="TextBlock.FontSize" Value="16"  />
+            <Setter Property="TextBlock.Foreground" Value="#FFFFFFFF" />
+            <Setter Property="TextBlock.HorizontalAlignment" Value="Center"/>
+            <Setter Property="TextBlock.VerticalAlignment" Value="Center"/>
+        </Style>
+        <Style TargetType="TextBox">
+            <Setter Property="TextBox.Foreground" Value="#FFFFFFFF" />
+            <Setter Property="TextBox.FontSize" Value="16"  />
+            <Setter Property="TextBox.Background" Value="#FF595959" />
+            <Setter Property="TextBox.VerticalAlignment" Value="Center"/>
+            <Setter Property="TextBox.TextAlignment" Value="Center"/>
+        </Style>
+        <Style TargetType="Button">
+            <Setter Property="Background" Value="#FF595959" />
+            <Setter Property="Foreground" Value="#FFFFFFFF" />
+            <Setter Property="BorderBrush" Value="#FF333333" />
+        </Style>
+    </Window.Resources>
+    <Grid Background="#FF393939">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <StackPanel Orientation="Vertical">
+            <TextBlock>First name</TextBlock>
+            <TextBox Text="{Binding Path=TestUser.first, UpdateSourceTrigger=PropertyChanged}"/>
+            <TextBlock>Last name</TextBlock>
+            <TextBox Text="{Binding Path=TestUser.last, UpdateSourceTrigger=PropertyChanged}"/>
+            <TextBlock>Gender</TextBlock>
+            <TextBox Text="{Binding Path=TestUser.gender, UpdateSourceTrigger=PropertyChanged}"/>
+            <TextBlock>City</TextBlock>
+            <TextBox Text="{Binding Path=TestUser.city, UpdateSourceTrigger=PropertyChanged}"/>
+            <TextBlock>Street</TextBlock>
+            <TextBox Text="{Binding Path=TestUser.street, UpdateSourceTrigger=PropertyChanged}"/>
+            <TextBlock>Zip code</TextBlock>
+            <TextBox Text="{Binding Path=TestUser.zip, UpdateSourceTrigger=PropertyChanged}" />
+            <TextBlock>Email</TextBlock>
+            <TextBox Text="{Binding Path=TestUser.email, UpdateSourceTrigger=PropertyChanged}"/>
+            <TextBlock>Birthday</TextBlock>
+            <TextBox Text="{Binding Path=TestUser.birthday, UpdateSourceTrigger=PropertyChanged}"/>
+            <TextBlock>Working position</TextBlock>
+            <TextBox Text="{Binding Path=TestUser.workingPosition, UpdateSourceTrigger=PropertyChanged}"/>
+            <TextBlock>Salary</TextBlock>
+            <TextBox Text="{Binding Path=TestUser.salary, UpdateSourceTrigger=PropertyChanged}"/>            
+        </StackPanel>
+        <DockPanel Grid.Column="1" LastChildFill="True">
+            <StackPanel DockPanel.Dock="Top">
+                <TextBlock>Effectiveness Of Teamwork</TextBlock>
+                <TextBox Text="{Binding Path=TestUser.item1, UpdateSourceTrigger=PropertyChanged}" ToolTip="Number between 0 and 100"/>
+                <TextBlock>Percentage Successfully Completed Projects</TextBlock>
+                <TextBox Text="{Binding Path=TestUser.item2, UpdateSourceTrigger=PropertyChanged}" ToolTip="Number between 0 and 100"/>
+                <TextBlock>Effectiveness Leadership Development Team</TextBlock>
+                <TextBox Text="{Binding Path=TestUser.item3, UpdateSourceTrigger=PropertyChanged}" ToolTip="Number between 0 and 100"/>
+                <TextBlock>Rating Positive Customer Feedback</TextBlock>
+                <TextBox Text="{Binding Path=TestUser.item4, UpdateSourceTrigger=PropertyChanged}" ToolTip="Number between 0 and 100"/>
+                <TextBlock>Rating Colleagues Reviews</TextBlock>
+                <TextBox Text="{Binding Path=TestUser.item5, UpdateSourceTrigger=PropertyChanged}" ToolTip="Number between 0 and 100"/>
+                <Button FontSize="18" Command="{Binding Path=AddPhoto}">Change photo</Button>
+            </StackPanel>
+            <StackPanel DockPanel.Dock="Bottom" Orientation="Horizontal">
+                <Button Width="175" FontSize="18" Command="{Binding Path=ChangeData}">Change</Button>
+                <Button Width="175" FontSize="18" IsCancel="True">Cancel</Button>                
+            </StackPanel>
+            <Image Source="{Binding Path=TestUser.large, UpdateSourceTrigger=PropertyChanged}"/>
+        </DockPanel>
+    </Grid>
+</Window>
+
+
+

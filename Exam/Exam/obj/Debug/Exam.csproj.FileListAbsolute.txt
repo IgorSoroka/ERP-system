@@ -1,0 +1,124 @@
+D:\Курсы\WPF\Exam\Exam\bin\Debug\Exam.exe.config
+D:\Курсы\WPF\Exam\Exam\bin\Debug\Exam.exe
+D:\Курсы\WPF\Exam\Exam\bin\Debug\Exam.pdb
+D:\Курсы\WPF\Exam\Exam\obj\Debug\MainWindow.g.cs
+D:\Курсы\WPF\Exam\Exam\obj\Debug\App.g.cs
+D:\Курсы\WPF\Exam\Exam\obj\Debug\Exam_MarkupCompile.cache
+D:\Курсы\WPF\Exam\Exam\obj\Debug\Exam_MarkupCompile.lref
+D:\Курсы\WPF\Exam\Exam\obj\Debug\MainWindow.baml
+D:\Курсы\WPF\Exam\Exam\obj\Debug\Exam.g.resources
+D:\Курсы\WPF\Exam\Exam\obj\Debug\Exam.Properties.Resources.resources
+D:\Курсы\WPF\Exam\Exam\obj\Debug\Exam.csproj.GenerateResource.Cache
+D:\Курсы\WPF\Exam\Exam\obj\Debug\Exam.exe
+D:\Курсы\WPF\Exam\Exam\obj\Debug\Exam.pdb
+d:\Курсы\WPF\Exam\Exam\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+d:\Курсы\WPF\Exam\Exam\bin\Debug\WPFToolkit.dll
+d:\Курсы\WPF\Exam\Exam\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.pdb
+d:\Курсы\WPF\Exam\Exam\bin\Debug\WPFToolkit.pdb
+d:\Курсы\WPF\Exam\Exam\obj\Debug\GeneratedInternalTypeHelper.g.cs
+d:\Курсы\WPF\Exam\Exam\bin\Debug\De.TorstenMandelkow.MetroChart.dll
+d:\Курсы\WPF\Exam\Exam\obj\Debug\App.baml
+d:\Курсы\WPF\Exam\Exam\obj\Debug\Dictionary.baml
+d:\Курсы\WPF\Exam\Exam\obj\Debug\View\AddUser.g.cs
+d:\Курсы\WPF\Exam\Exam\obj\Debug\View\AddUser.baml
+d:\Курсы\WPF\Exam\Exam\obj\Debug\View\AddProject.g.cs
+d:\Курсы\WPF\Exam\Exam\obj\Debug\View\AddProject.baml
+d:\Курсы\WPF\Exam\Exam\obj\Debug\Exam.csprojResolveAssemblyReference.cache
+d:\Курсы\WPF\Exam\Exam\obj\Debug\View\ChangeUser.g.cs
+d:\Курсы\WPF\Exam\Exam\obj\Debug\View\ChangeUser.baml
+d:\Курсы\впф экзамен версия\Exam\Exam\bin\Debug\Exam.exe.config
+d:\Курсы\впф экзамен версия\Exam\Exam\obj\Debug\Exam.exe
+d:\Курсы\впф экзамен версия\Exam\Exam\obj\Debug\Exam.pdb
+d:\Курсы\впф экзамен версия\Exam\Exam\bin\Debug\Exam.exe
+d:\Курсы\впф экзамен версия\Exam\Exam\bin\Debug\Exam.pdb
+d:\Курсы\впф экзамен версия\Exam\Exam\bin\Debug\De.TorstenMandelkow.MetroChart.dll
+d:\Курсы\впф экзамен версия\Exam\Exam\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+d:\Курсы\впф экзамен версия\Exam\Exam\bin\Debug\WPFToolkit.dll
+d:\Курсы\впф экзамен версия\Exam\Exam\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.pdb
+d:\Курсы\впф экзамен версия\Exam\Exam\bin\Debug\WPFToolkit.pdb
+d:\Курсы\впф экзамен версия\Exam\Exam\obj\Debug\Exam.csprojResolveAssemblyReference.cache
+d:\Курсы\впф экзамен версия\Exam\Exam\obj\Debug\Dictionary.baml
+d:\Курсы\впф экзамен версия\Exam\Exam\obj\Debug\MainWindow.g.cs
+d:\Курсы\впф экзамен версия\Exam\Exam\obj\Debug\View\AddProject.g.cs
+d:\Курсы\впф экзамен версия\Exam\Exam\obj\Debug\View\AddUser.g.cs
+d:\Курсы\впф экзамен версия\Exam\Exam\obj\Debug\View\ChangeUser.g.cs
+d:\Курсы\впф экзамен версия\Exam\Exam\obj\Debug\App.g.cs
+d:\Курсы\впф экзамен версия\Exam\Exam\obj\Debug\GeneratedInternalTypeHelper.g.cs
+d:\Курсы\впф экзамен версия\Exam\Exam\obj\Debug\Exam_MarkupCompile.cache
+d:\Курсы\впф экзамен версия\Exam\Exam\obj\Debug\Exam_MarkupCompile.lref
+d:\Курсы\впф экзамен версия\Exam\Exam\obj\Debug\App.baml
+d:\Курсы\впф экзамен версия\Exam\Exam\obj\Debug\MainWindow.baml
+d:\Курсы\впф экзамен версия\Exam\Exam\obj\Debug\View\AddProject.baml
+d:\Курсы\впф экзамен версия\Exam\Exam\obj\Debug\View\AddUser.baml
+d:\Курсы\впф экзамен версия\Exam\Exam\obj\Debug\View\ChangeUser.baml
+d:\Курсы\впф экзамен версия\Exam\Exam\obj\Debug\Exam.g.resources
+d:\Курсы\впф экзамен версия\Exam\Exam\obj\Debug\Exam.Properties.Resources.resources
+d:\Курсы\впф экзамен версия\Exam\Exam\obj\Debug\Exam.csproj.GenerateResource.Cache
+d:\Курсы\впф экзамен версия\Exam\Exam\obj\Debug\View\Delete.g.cs
+d:\Курсы\впф экзамен версия\Exam\Exam\obj\Debug\View\Delete.baml
+d:\Курсы\WPF\впф экзамен версия\Exam\Exam\bin\Debug\Exam.exe.config
+d:\Курсы\WPF\впф экзамен версия\Exam\Exam\obj\Debug\Exam.exe
+d:\Курсы\WPF\впф экзамен версия\Exam\Exam\obj\Debug\Exam.pdb
+d:\Курсы\WPF\впф экзамен версия2\Exam\Exam\bin\Debug\Exam.exe.config
+d:\Курсы\WPF\впф экзамен версия2\Exam\Exam\obj\Debug\Exam.exe
+d:\Курсы\WPF\впф экзамен версия2\Exam\Exam\obj\Debug\Exam.pdb
+d:\Курсы\WPF\впф экзамен версия2\Exam\Exam\bin\Debug\Exam.exe
+d:\Курсы\WPF\впф экзамен версия2\Exam\Exam\bin\Debug\Exam.pdb
+d:\Курсы\WPF\впф экзамен версия2\Exam\Exam\bin\Debug\De.TorstenMandelkow.MetroChart.dll
+d:\Курсы\WPF\впф экзамен версия2\Exam\Exam\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+d:\Курсы\WPF\впф экзамен версия2\Exam\Exam\bin\Debug\WPFToolkit.dll
+d:\Курсы\WPF\впф экзамен версия2\Exam\Exam\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.pdb
+d:\Курсы\WPF\впф экзамен версия2\Exam\Exam\bin\Debug\WPFToolkit.pdb
+d:\Курсы\WPF\впф экзамен версия2\Exam\Exam\obj\Debug\Exam.csprojResolveAssemblyReference.cache
+d:\Курсы\WPF\впф экзамен версия2\Exam\Exam\obj\Debug\Dictionary.baml
+d:\Курсы\WPF\впф экзамен версия2\Exam\Exam\obj\Debug\MainWindow.g.cs
+d:\Курсы\WPF\впф экзамен версия2\Exam\Exam\obj\Debug\View\AddProject.g.cs
+d:\Курсы\WPF\впф экзамен версия2\Exam\Exam\obj\Debug\View\AddUser.g.cs
+d:\Курсы\WPF\впф экзамен версия2\Exam\Exam\obj\Debug\View\ChangeUser.g.cs
+d:\Курсы\WPF\впф экзамен версия2\Exam\Exam\obj\Debug\View\Delete.g.cs
+d:\Курсы\WPF\впф экзамен версия2\Exam\Exam\obj\Debug\App.g.cs
+d:\Курсы\WPF\впф экзамен версия2\Exam\Exam\obj\Debug\GeneratedInternalTypeHelper.g.cs
+d:\Курсы\WPF\впф экзамен версия2\Exam\Exam\obj\Debug\Exam_MarkupCompile.cache
+d:\Курсы\WPF\впф экзамен версия2\Exam\Exam\obj\Debug\Exam_MarkupCompile.lref
+d:\Курсы\WPF\впф экзамен версия2\Exam\Exam\obj\Debug\App.baml
+d:\Курсы\WPF\впф экзамен версия2\Exam\Exam\obj\Debug\MainWindow.baml
+d:\Курсы\WPF\впф экзамен версия2\Exam\Exam\obj\Debug\View\AddProject.baml
+d:\Курсы\WPF\впф экзамен версия2\Exam\Exam\obj\Debug\View\AddUser.baml
+d:\Курсы\WPF\впф экзамен версия2\Exam\Exam\obj\Debug\View\ChangeUser.baml
+d:\Курсы\WPF\впф экзамен версия2\Exam\Exam\obj\Debug\View\Delete.baml
+d:\Курсы\WPF\впф экзамен версия2\Exam\Exam\obj\Debug\Exam.g.resources
+d:\Курсы\WPF\впф экзамен версия2\Exam\Exam\obj\Debug\Exam.Properties.Resources.resources
+d:\Курсы\WPF\впф экзамен версия2\Exam\Exam\obj\Debug\Exam.csproj.GenerateResource.Cache
+d:\Курсы\Для линкедина\Exam\Exam\bin\Debug\Exam.exe.config
+d:\Курсы\Для линкедина\Exam\Exam\obj\Debug\Exam.exe
+d:\Курсы\Для линкедина\Exam\Exam\obj\Debug\Exam.pdb
+d:\Курсы\Для линкедина\Exam\Exam\bin\Debug\Exam.exe
+d:\Курсы\Для линкедина\Exam\Exam\bin\Debug\Exam.pdb
+d:\Курсы\Для линкедина\Exam\Exam\bin\Debug\De.TorstenMandelkow.MetroChart.dll
+d:\Курсы\Для линкедина\Exam\Exam\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+d:\Курсы\Для линкедина\Exam\Exam\bin\Debug\WPFToolkit.dll
+d:\Курсы\Для линкедина\Exam\Exam\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.pdb
+d:\Курсы\Для линкедина\Exam\Exam\bin\Debug\WPFToolkit.pdb
+d:\Курсы\Для линкедина\Exam\Exam\obj\Debug\Exam.csprojResolveAssemblyReference.cache
+d:\Курсы\Для линкедина\Exam\Exam\obj\Debug\Dictionary.baml
+d:\Курсы\Для линкедина\Exam\Exam\obj\Debug\MainWindow.g.cs
+d:\Курсы\Для линкедина\Exam\Exam\obj\Debug\View\AddProject.g.cs
+d:\Курсы\Для линкедина\Exam\Exam\obj\Debug\View\AddUser.g.cs
+d:\Курсы\Для линкедина\Exam\Exam\obj\Debug\View\ChangeUser.g.cs
+d:\Курсы\Для линкедина\Exam\Exam\obj\Debug\View\Delete.g.cs
+d:\Курсы\Для линкедина\Exam\Exam\obj\Debug\App.g.cs
+d:\Курсы\Для линкедина\Exam\Exam\obj\Debug\GeneratedInternalTypeHelper.g.cs
+d:\Курсы\Для линкедина\Exam\Exam\obj\Debug\Exam_MarkupCompile.cache
+d:\Курсы\Для линкедина\Exam\Exam\obj\Debug\Exam_MarkupCompile.lref
+d:\Курсы\Для линкедина\Exam\Exam\obj\Debug\App.baml
+d:\Курсы\Для линкедина\Exam\Exam\obj\Debug\MainWindow.baml
+d:\Курсы\Для линкедина\Exam\Exam\obj\Debug\View\AddProject.baml
+d:\Курсы\Для линкедина\Exam\Exam\obj\Debug\View\AddUser.baml
+d:\Курсы\Для линкедина\Exam\Exam\obj\Debug\View\ChangeUser.baml
+d:\Курсы\Для линкедина\Exam\Exam\obj\Debug\View\Delete.baml
+d:\Курсы\Для линкедина\Exam\Exam\obj\Debug\Exam.g.resources
+d:\Курсы\Для линкедина\Exam\Exam\obj\Debug\Exam.Properties.Resources.resources
+d:\Курсы\Для линкедина\Exam\Exam\obj\Debug\Exam.csproj.GenerateResource.Cache
+C:\Users\Игорь\Desktop\ERP\Exam\Exam\bin\Debug\Exam.exe.config
+C:\Users\Игорь\Desktop\ERP\Exam\Exam\obj\Debug\Exam.exe
+C:\Users\Игорь\Desktop\ERP\Exam\Exam\obj\Debug\Exam.pdb
